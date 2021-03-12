@@ -1,0 +1,32 @@
+.line {
+    color: rgb(252, 182, 6);
+
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+    
+}
+
+.header  {
+    height: 2vh;
+    padding: 2.5rem 2rem;
+
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    margin: 0 auto; 
+    padding: 3rem;
+    max-width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8);
+   
+}
+
+.header h1 { 
+    display: grid;
+    grid-template-columns: 1f, 1fr;
+    color: rgb(252, 182, 6);
+    text-align: center;
+    text-shadow:  4px 4px rgb(3, 9, 87);
+   
+}

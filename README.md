@@ -20,10 +20,10 @@
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML](https://html.spec.whatwg.org)
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [JavaScript](https://www.javascript.com/)
 - [React](https://reactjs.org)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+
 
 
 ## 💻 Projeto

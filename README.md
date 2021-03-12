@@ -1,6 +1,6 @@
 # Currency Converter
 <p align="center">
-  <img alt="" src="" width="600px">
+  <img alt="Currency Converter" src="https://github.com/Ca-byte/currencyConverter/blob/main/currency-converter.PNG" width="600px">
 </p>
 
 
